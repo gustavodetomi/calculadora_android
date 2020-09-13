@@ -1,2 +1,5 @@
-# calculadora_android
- -- Calculadora Android JAVA
+# Calculadora Operações Básicas
+- Android
+- JAVA
+- XML
+- MVC
